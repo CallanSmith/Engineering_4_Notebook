@@ -637,6 +637,22 @@ https://cvilleschools.onshape.com/documents/df8a4669033c661f48e37312/w/f5fa1dc22
 
 This assingment was also pretty simple but I learned quite a few hotkeys which will be usefull in the future.
 
+## 4.3 Assembly
+
+### Assignment Description
+
+Take all of the previously designed peices and assmeble them to make a pull copter
+
+### Images
+<img src="images/pullcopter.PNG" alt="BlinkingBoard" width="450">
+
+### Evidence
+https://cvilleschools.onshape.com/documents/df8a4669033c661f48e37312/w/f5fa1dc22a3f42fc88681d95/e/0cc1387392edf67199f3c258?renderMode=0&uiState=6408a19317e9d969bd9a9cf9 
+ 
+
+### Reflection
+
+Putting it all toeghether was the hardest part of the assingment. At first when the key was pulled out, it would'nt spin. To change this we had to change the type of mate like the assingment said, and it was fixed.
 ## Media Test
 
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
