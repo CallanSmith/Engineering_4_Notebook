@@ -18,6 +18,9 @@
 * [FEA_Part 2](#FEA_Part_2)
 * [FEA_Part 3](#FEA_Part_3)
 * [Extra Design](#Extra_Design)
+* [4.1 Ring and Spinner](#RingSpinner)
+* [4.2 Key and Prop](#KeyProp)
+* [4.3 Assembly](#Assembly)
 ## Countdown_1
 
 ### Assignment Description
