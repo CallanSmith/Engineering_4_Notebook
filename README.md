@@ -560,13 +560,13 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
   ## FEA_Part_1
 ### Description
-Initial design of the beam
+Design a beam within the required parameters to hold as much load as possible.
 
 ### Part Image
 <img src="https://user-images.githubusercontent.com/71342195/201368972-60be90cd-ab27-4af6-bca0-1178c419fffb.png" width="600"><img src="https://user-images.githubusercontent.com/71342195/201956934-0a3b6bb5-5690-4185-a896-5e9d26e0884a.png" width="200">
 
 ### Reflection
-Our initial design is based on an I beam. But instead of making an I beam we used triangles so that there was more support and rigidity. But since we needed to get rid of weight we needed to cut holes into the sides so that the total beam weight is >= 13 grams. We did pretty good on our first idea considering that we also got rid of alot of weight by getting rid of extra hangovers that wouldnt've didnt give as much support as it should've considering all the weight it was.
+Our initial design is based on an I beam. But instead of making an I beam we used triangles so that there was more support and rigidity. But since we needed to get rid of weight we needed to cut holes into the sides so that the total beam weight is >= 13 grams. We did pretty good on our first idea considering that we also got rid of alot of weight by getting rid of extra hangovers that wouldnt've didnt give as much support as it should've considering all the weight it was. To improve we want to find a way to make the ways thicker so they are less fkimsy. 
 
 ## FEA_Part_2
 ### Description
