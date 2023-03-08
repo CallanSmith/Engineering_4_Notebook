@@ -620,6 +620,23 @@ https://cvilleschools.onshape.com/documents/df8a4669033c661f48e37312/w/f5fa1dc22
 
 This assingment was realtively simple and layed out step by step. I learned how to use a helix for the first time. Nothing else was new 
 
+## 4.2 Key and Prop
+
+### Assignment Description
+
+With a partner design a the second two pieces of the assingment the key and prop. I designed the key
+
+### Images
+<img src="images/key.PNG" alt="BlinkingBoard" width="450">
+
+### Evidence
+https://cvilleschools.onshape.com/documents/df8a4669033c661f48e37312/w/f5fa1dc22a3f42fc88681d95/e/0cc1387392edf67199f3c258?renderMode=0&uiState=6408a19317e9d969bd9a9cf9 
+ 
+
+### Reflection
+
+This assingment was also pretty simple but I learned quite a few hotkeys which will be usefull in the future.
+
 ## Media Test
 
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
