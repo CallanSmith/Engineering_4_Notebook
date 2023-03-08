@@ -14,6 +14,10 @@
 * [Landing Area 2](#Landing_Area_2)
 * [Morse Code 1](#Morse_Code_1)
 * [Morse Code 2](#Morse_Code_2)
+* [FEA_Part 1](#FEA_Part_1)
+* [FEA_Part 2](#FEA_Part_2)
+* [FEA_Part 3](#FEA_Part_3)
+* [Extra Design](#Extra_Design)
 ## Countdown_1
 
 ### Assignment Description
@@ -598,6 +602,23 @@ Failed extra design
 
 ### Reflection
 In what we thought would be a fix for our final design, we added beams in the middle of all the triangles. This was to counteract the stress which was conectrated at the top of these triangles. When we ran the simulation for this design, the Von Mises stress was higher, which was weird. Also the stress point was in a place that didn't make sense. In the end we ended up not going with this design for these reasons. 
+
+## 4.1 Ring and spinner
+
+### Assignment Description
+
+With a partner design a the first two pieces of the assingment the right and spinner. I designed the ring
+
+### Images
+<img src="images/ring.png" alt="BlinkingBoard" width="450">
+
+### Evidence
+https://cvilleschools.onshape.com/documents/df8a4669033c661f48e37312/w/f5fa1dc22a3f42fc88681d95/e/0cc1387392edf67199f3c258?renderMode=0&uiState=6408a19317e9d969bd9a9cf9 
+ 
+
+### Reflection
+
+This assingment was realtively simple and layed out step by step. I learned how to use a helix for the first time. Nothing else was new 
 
 ## Media Test
 
