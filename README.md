@@ -610,7 +610,7 @@ In what we thought would be a fix for our final design, we added beams in the mi
 With a partner design a the first two pieces of the assingment the right and spinner. I designed the ring
 
 ### Images
-<img src="images/ring.png" alt="BlinkingBoard" width="450">
+<img src="images/ring.PNG" alt="BlinkingBoard" width="450">
 
 ### Evidence
 https://cvilleschools.onshape.com/documents/df8a4669033c661f48e37312/w/f5fa1dc22a3f42fc88681d95/e/0cc1387392edf67199f3c258?renderMode=0&uiState=6408a19317e9d969bd9a9cf9 
