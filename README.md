@@ -570,17 +570,17 @@ Our initial design is based on an I beam. But instead of making an I beam we use
 
 ## FEA_Part_2
 ### Description
-Simscale Workflow
+Set up our simscale workflow simulation and run it with out beam to find the weak points and evetnaully optimize it. 
 
 ### Part Image
 <img src="https://user-images.githubusercontent.com/71342195/201369246-3574bfac-4779-4b21-ba10-79b7a163ae12.png" width="600">
 
 ### Reflection
-We did decent on our first attempt but made alot of changes. We ended up making changes to the beam so that there was more support on weak points and less support on strong points. As we added more support there was also weight that was added. So we took cut more triangles in places that didnt need support and took of 2 support walls to cut weight. Once we got down to an acceptable weight we then retested the beam.
+We did decent on our first attempt but made alot of changes. We ended up making changes to the beam so that there was more support on weak points and less support on strong points. As we added more support there was also weight that was added. So we took cut more triangles in places that didnt need support and took of 2 support walls to cut weight. Once we got down to an acceptable weight we then retested the beam, and it had improved. We learned that  simscale simulation can help us optimize our beam.
 
 ## FEA_Part_3
 ### Description
-Iterative Design
+Iterative Design cycle where we improve our beam and test it again to fully optimize it. 
 
 ### Part Image
 <img src="https://user-images.githubusercontent.com/71342195/202476218-bf3bfc9b-608c-4a95-8528-45043f271c07.png" width="600"><img src="https://user-images.githubusercontent.com/71342195/201960051-f495fbc2-ce61-4e19-ba86-23a775671d54.png" width="200">
